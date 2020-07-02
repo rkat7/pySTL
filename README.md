@@ -34,7 +34,7 @@ pySTLtools.count_set_bits(9)
 Output: 2
 
 
-# Developing pySTL
+# Developing pySTLtools
 
 Contributions/Collaborations to/on this project are very welcomed! Any small help is appreciated :)
 I belive the tools that could be developed on this project could be endless
